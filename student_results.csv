@@ -1,0 +1,16 @@
+Student_ID,Name,Department,Python,DBMS,Networking,AI,Attendance,Total_Marks,Average_Marks,Grade,Result
+2301,Divya Nair,CSE,91,81,88,86,97,346.0,86.5,A,Pass
+2302,Zainab Mir,ECE,67,87,39,94,91,287.0,71.75,B,Fail
+2303,Pooja Raina,ECE,95,72,69,75,90,311.0,77.75,B,Pass
+2304,Rahul Pandit,CSE,76,44,88,80,95,288.0,72.0,B,Pass
+2305,Imran Dar,IT,54,61,58,63,55,236.0,59.0,D,Pass
+2306,Owais Lone,ECE,85,93,96,91,99,365.0,91.25,A+,Pass
+2307,Sumaiya Rather,IT,79,48,84,88,94,299.0,74.75,B,Pass
+2308,Neha Kapoor,ECE,88,84,86,90,65,348.0,87.0,A,Pass
+2309,Muneeb Bashir,ECE,86,69,51,84,98,290.0,72.5,B,Pass
+2310,Faizan Malik,CSE,36,78,79,46,92,239.0,59.75,D,Fail
+2311,Nusrat Jan,ECE,42,83,89,41,88,255.0,63.75,C,Pass
+2312,Adnan Hussain,CSE,92,90,94,89,60,365.0,91.25,A+,Pass
+2313,Karan Malhotra,IT,48,52,46,55,70,201.0,50.25,D,Pass
+2314,Arjun Mehta,IT,82,91,92,87,82,352.0,88.0,A,Pass
+2315,Bushra Zahgeer,ECE,64,89,71,66,96,290.0,72.5,B,Pass
